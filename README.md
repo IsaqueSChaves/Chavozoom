@@ -1,7 +1,7 @@
 ## Olá! Eu sou Isaque Chaves
 
 
-- 🌱 Estudando Node.js, Next.js e Typescript
+- 🌱 Estudando Node.js, Typescript e Microservices.
  
  ##
  
