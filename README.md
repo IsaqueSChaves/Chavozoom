@@ -1,7 +1,7 @@
 ## Olá! Eu sou Isaque Chaves
 
 
-- 🌱 Estudando Node.js, Typescript e Microservices.
+- 🌱 Estudando Google Cloud, Typescript e Microservices.
  
  ##
  
