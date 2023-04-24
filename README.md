@@ -20,10 +20,6 @@
 <div>
 <a href="https://www.linkedin.com/in/isaque-chaves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:isaquechaves10500@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chavozoom&theme=dark&show_icons=true)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chavozoom&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
   
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Chavozoom&label=Profile%20Views&icon=5&pretty=false" alt="viewCount"/>
